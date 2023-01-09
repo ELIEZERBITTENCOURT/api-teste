@@ -1,4 +1,4 @@
-# SEQUENCIA DO PROJETO #
+# SEQUÊNCIA DO PROJETO #
 ## Como rodar projeto baixado ##
 
 Instalar todas as dependências indicadas pelo package.json:
